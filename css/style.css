@@ -116,7 +116,31 @@ li:hover{
 }
 
 
+.iner_form{
+    background-color: lightcyan;
+    padding: 32px;
+    border-radius: 6px;
+    box-shadow: 3px 0px 14px -1px grey;
+    margin-top: 66px;
+    display: none;
 
+}
+.iner_form h6{
+    font-size: 20px;
+    margin: 12px 0px;
+    font-weight: 700;
+}
+.sub_butn{
+    background-color: lightgray;
+    border: none;
+    margin-top: 19px;
+    padding: 7px 21px;
+    font-weight: 700;
+    border-radius: 4px;
+}
+.sub_butn:hover{
+    background-color: lightcoral;
+}
 
 
 
